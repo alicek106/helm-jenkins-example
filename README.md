@@ -1,2 +1,2 @@
 # Jenkins + Kubernetes Plugin Example
-ºí·Î±× ¸µÅ© : https://blog.naver.com/alice_k106/221562805601
+ë¸”ë¡œê·¸ ì„¤ëª… ë§í¬ : https://blog.naver.com/alice_k106/221562805601
